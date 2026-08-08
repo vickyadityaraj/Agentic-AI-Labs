@@ -31,13 +31,14 @@ This repository contains the completed, tested, and fully functional implementat
 Agentic-AI-Labs/
 │
 ├── README.md                                  # Main repository documentation & lab report
-├── Experiment_1_Text_to_SQL_Groq.py           # Experiment 1 implementation script
-├── Experiment_2_RAG_QA_Groq.py                # Experiment 2 implementation script
-├── Experiment_3_Prompt_Chaining_Groq.py       # Experiment 3 implementation script
 │
-├── Experiment_1_Text-to-SQL_Workflow_Groq.docx
-├── Experiment_2_RAG-Based_Question_Answering_System_Groq.docx
-└── Experiment_3_Prompt_Chaining_for_Summarization_Groq.docx
+└── Lab_Experiments/                           # 📂 All Laboratory Experiments
+    ├── Experiment_1_Text_to_SQL_Groq.py       # Experiment 1 implementation script
+    ├── Experiment_2_RAG_QA_Groq.py            # Experiment 2 implementation script
+    ├── Experiment_3_Prompt_Chaining_Groq.py   # Experiment 3 implementation script
+    ├── Experiment_1_Text-to-SQL_Workflow_Groq.docx
+    ├── Experiment_2_RAG-Based_Question_Answering_System_Groq.docx
+    └── Experiment_3_Prompt_Chaining_for_Summarization_Groq.docx
 ```
 
 ---
@@ -101,7 +102,7 @@ Formatted ASCII Table Output
 ### Execution Command
 
 ```bash
-python Experiment_1_Text_to_SQL_Groq.py
+python Lab_Experiments/Experiment_1_Text_to_SQL_Groq.py
 ```
 
 ### Sample Output
@@ -172,7 +173,7 @@ Groq LLM (Context Grounded Prompting)
 ### Execution Command
 
 ```bash
-python Experiment_2_RAG_QA_Groq.py
+python Lab_Experiments/Experiment_2_RAG_QA_Groq.py
 ```
 
 ### Sample Output
@@ -235,7 +236,7 @@ Final Polished Output (76.8% Compression)
 ### Execution Command
 
 ```bash
-python Experiment_3_Prompt_Chaining_Groq.py
+python Lab_Experiments/Experiment_3_Prompt_Chaining_Groq.py
 ```
 
 ### Sample Output
