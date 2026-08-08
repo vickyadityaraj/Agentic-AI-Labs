@@ -31,9 +31,14 @@ This repository contains the completed, tested, and fully functional implementat
 Agentic-AI-Labs/
 │
 ├── README.md                                  # Main repository documentation & lab report
-├── Experiment_1_Text_to_SQL_Groq.py           # Experiment 1 implementation script
-├── Experiment_2_RAG_QA_Groq.py                # Experiment 2 implementation script
-├── Experiment_3_Prompt_Chaining_Groq.py       # Experiment 3 implementation script
+├── Experiment_1_Text_to_SQL_Groq.py           # Experiment 1 static script (for faculty evaluation)
+├── Experiment_2_RAG_QA_Groq.py                # Experiment 2 static script (for faculty evaluation)
+├── Experiment_3_Prompt_Chaining_Groq.py       # Experiment 3 static script (for faculty evaluation)
+│
+├── dynamic_experiments/                       # 🌟 Interactive & Dynamic CLI Applications
+│   ├── Experiment_1_Text_to_SQL_Dynamic.py    # Interactive Text-to-SQL engine with custom query loop
+│   ├── Experiment_2_RAG_QA_Dynamic.py         # Dynamic RAG engine with live custom document indexing
+│   └── Experiment_3_Prompt_Chaining_Dynamic.py # Interactive Prompt Chaining pipeline for custom text
 │
 ├── Experiment_1_Text-to-SQL_Workflow_Groq.docx
 ├── Experiment_2_RAG-Based_Question_Answering_System_Groq.docx
