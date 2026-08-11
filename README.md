@@ -43,10 +43,10 @@ Agentic-AI-Labs/
     │   └── Experiment_4_SQL_Agent_Tool_Use.py
     │
     └── Documents/                             # 📄 Experiment Documentation & Reports (.docx)
-        ├── Experiment_1_Text-to-SQL_Workflow_Groq.docx
-        ├── Experiment_2_RAG-Based_Question_Answering_System_Groq.docx
-        ├── Experiment_3_Prompt_Chaining_for_Summarization_Groq.docx
-        └── Experiment_4_SQL_Agent_Tool_Use_Groq.docx
+        ├── Experiment_1_Text-to-SQL_Workflow.docx
+        ├── Experiment_2_RAG-Based_Question_Answering_System.docx
+        ├── Experiment_3_Prompt_Chaining_for_Summarization.docx
+        └── Experiment_4_SQL_Agent_Tool_Use.docx
 ```
 
 ---
